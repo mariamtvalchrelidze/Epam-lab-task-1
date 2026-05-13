@@ -1,1 +1,9 @@
-# Epam-lab-task-1
+
+# Mariamis Proekti
+
+lalala
+
+## Installation
+```bash
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+```
